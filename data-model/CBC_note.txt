@@ -1,0 +1,13 @@
++ LYM (Lymphocyte – Bạch cầu Lympho): Lymphocyte là các tế bào có khả năng miễn dịch (thường từ 10% - 58.5%L).
++ NEUT (Neutrophil) - bạch cầu trung tính: Bạch cầu trung tính có chức năng quan trọng là thực bào (thường từ 37% - 80%M).
++ MON (monocyte) - bạch cầu mono: Mono bào là bạch cầu đơn nhân, sau sẽ biệt hóa thành đại thực bào (thường từ 0% - 12%M).
++ EOS (eosinophils) - bạch cầu ái toan: Bạch cầu ái toan có khả năng thực bào yếu (thường từ 0.1% - 7%E).
++ BASO (basophils) - bạch cầu ái kiềm: Có vai trò quan trọng trong các phản ứng dị ứng (thường từ 0.1% - 2.5%).
++ HBG (Hemoglobin) – Lượng huyết sắc tố trong một thể tích máu: Là một phân tử protein phức tạp có khả năng vận chuyển oxy và tạo màu đỏ cho hồng cầu (thường ở nam từ 12 - 18 g/dl, ở nữ từ 12 - 16 g/dl). 
++ HCT (Hematocrit) – Tỷ lệ thể tích hồng cầu trên thể tích máu toàn phần (thường ở nam từ 45% - 51%, ở nữ từ 37% - 48%).
++ MCV (Mean corpuscular volume) – Thể tích trung bình của một hồng cầu (thường từ 80 - 97 fl).
++ MCH (Mean Corpuscular Hemoglobin) – Lượng huyết sắc tố trung bình trong một hồng cầu(thường từ 26 - 32 picogram(pg)).
++ MCHC (Mean Corpuscular Hemoglobin Concentration) – Nồng độ trung bình của huyết sắc tố hemoglobin trong một thể tích máu(thường từ 31% - 36%).
++ RDW (Red Cell Distribution Width) – Độ phân bố kích thước hồng cầu(thường từ 11.5% - 15.5%).
++ PLT (Platelet Count) – Số lượng tiểu cầu trong một thể tích máu(thường từ 140 - 440 K/uL).
++ MPV (Mean Platelet Volume) – Thể tích trung bình của tiểu cầu trong một thể tích máu(thường từ 0.0 - 99.8 fL).
